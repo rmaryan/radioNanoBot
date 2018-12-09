@@ -2,6 +2,7 @@
 This is the source code and the circuit diagram for the Radio-Controlled Robot built on Arduino Nano
 
 See the details in our blog:
+ * https://onerobotstory.blogspot.com/2018/12/14-radio-controlled-robot.html (English)
  * https://refunpro.blogspot.com/2018/08/19.html (Ukrainian)
  
 ## Hardware
@@ -34,4 +35,6 @@ See the details in our blog:
 
 ## Changes List
 ### 1.0
-The initial version with the very basic remote control and LCD displays functionality. More details here: https://refunpro.blogspot.com/2018/08/19.html (Ukr)
+The initial version with the very basic remote control and LCD displays functionality. More details here:
+ * https://onerobotstory.blogspot.com/2018/12/14-radio-controlled-robot.html (English)
+ * https://refunpro.blogspot.com/2018/08/19.html (Ukrainian)
