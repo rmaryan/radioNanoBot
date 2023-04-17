@@ -38,3 +38,7 @@ See the details in our blog:
 The initial version with the very basic remote control and LCD displays functionality. More details here:
  * https://onerobotstory.blogspot.com/2018/12/14-radio-controlled-robot.html (English)
  * https://refunpro.blogspot.com/2018/08/19.html (Ukrainian)
+
+# Liked some of my work?
+
+<a href="https://www.buymeacoffee.com/maryanR" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
